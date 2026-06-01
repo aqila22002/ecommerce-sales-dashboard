@@ -1,4 +1,3 @@
-# ecommerce-sales-dashboard
 # E-Commerce Sales Dashboard
 
 ## Project Overview
